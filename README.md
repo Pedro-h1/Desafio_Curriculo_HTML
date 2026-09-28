@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=E34F26&text=💼+PORTFÓLIO+%26+CURRÍCULO&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📋+Mini+Desafio+HTML&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=E34F26&text=💼+PORTF%C3%93LIO+%26+CURR%C3%8DCULO&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📋+Mini+Desafio+HTML&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -53,6 +53,8 @@ Criar uma página HTML **limpa, semântica e funcional**, reproduzindo a estrutu
 
 </div>
 
+<div align="center">
+
 | Requisito | Implementação |
 |---|---|
 | 💻 Linguagem | HTML5 |
@@ -61,46 +63,7 @@ Criar uma página HTML **limpa, semântica e funcional**, reproduzindo a estrutu
 | 🔗 Navegação | Âncoras internas |
 | 📊 Projetos | Tabela com 4 colunas |
 | 📩 Contato | Formulário com fieldset e legend |
-| 🦶 Rodapé | &copy;, e-mail e telefone |
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=🏆+Crit%C3%A9rios+de+Avalia%C3%A7%C3%A3o)](https://git.io/typing-svg)
-
-</div>
-
-- ✅ Implementação de todas as seções solicitadas.
-- ✅ Uso correto das tags de tabela: table, thead, tbody, tr, th e td.
-- ✅ Imagem de perfil configurada com **width="150"** e **height="150"**.
-- ✅ Formulário completo com fieldset e legend.
-- ✅ Utilização de tags semânticas como header, nav, main, section e footer.
-- ✅ Links internos funcionando por meio de âncoras href="#id".
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📁+Estrutura+do+Projeto)](https://git.io/typing-svg)
-
-</div>
-
-A atividade concentra-se na construção da página de currículo utilizando **HTML5**, mantendo o código organizado e priorizando a estrutura semântica.
-
-<div align="center">
-  <p>
-    📄 <strong>Arquivo principal:</strong> index.html
-  </p>
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=🚀+Desafio+conclu%C3%ADdo!)](https://git.io/typing-svg)
-
-**Mostre suas habilidades de estruturação Web e crie um portfólio incrível! 💼🚀**
+| 🦶 Rodapé | &copy;, e nome do criador |
 
 </div>
 
