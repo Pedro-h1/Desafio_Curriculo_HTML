@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Básico</title>
+</head>
+
+<body>
+    <h1>Pedro Henrique Prandwiski Borges - Desenvolvedor Full-Stack </h1>
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#projetos">Projetos</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+    <hr>
+    <section>
+        <h2 id="sobre">Sobre mim</h2>
+        <img src="assets/pedro.jpg" alt="minha foto" width="150" height="150">
+        <p>Sou estudante de <strong>Desenvolvimento de sistemas</strong> no SENAI</p>
+        <p>Tenho conhecimento em <em>HTML</em>, <em>CSS</em>, <em>JavaScript</em>, <em>C++</em>, <em>PHP</em>, <em>Figma</em>, <em>Git</em>, <em>GitHub</em>, <em>Canva</em> e estou aprendendo <em>Python</em></p>
+        <h3>Minhas habilidades: </h3>
+        <ul>
+            <li>HTML5 e Semântico</li>
+            <li>CSS3 e Responsividade</li>
+            <li>Fromulários e Validação</li>
+            <li>Estruturação de Dados</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <h2 id="projetos">Meus Projetos </h2>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border: 1px solid gray;
+            padding: 10px;
+        }
+    </style>
+    <table>
+        <th>Projeto</th>
+        <th>Tecnologias</th>
+        <th>Status</th>
+        <th>Link</th>
+        </tr>
+        <tr>
+            <td>Desafio — Loja de Games Retrô</td>
+            <td>HTML5</td>
+            <td>Concluído</td>
+            <td><a href="https://github.com/Pedro-h1/Desafio_Loja_Games_Retro"> Ver Projeto</a></td>
+        </tr>
+        <tr>
+            <td>Atividade — Verificação de Maioridade</td>
+            <td>PHP</td>
+            <td>Concluído</td>
+            <td><a href="https://github.com/Pedro-h1/ATV_BACKEND_MAIORIDADE">Ver Projeto</a></td>
+        </tr>
+        <tr>
+            <td>Projeto em Grupo — FukuroTechDev — Sprint 2</td>
+            <td>Portugol e C++</td>
+            <TD>Concluído</TD>
+            <td><a href="https://github.com/Pedro-h1/FukuroTech_Sprint2">Ver Projeto</a></td>
+        </tr>
+    </table>
+    <br> <br>
+    <hr>
+    <br><br>
+    <form action="processar.php" method="post">
+        <fieldset id="contato">
+            <legend>Entre em contato comigo!</legend>
+            <label for="nome">Nome Completo:</label> <br>
+            <input type="text" id="nome" name="nome"> <br><br>
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+            <label for="assunto">Assunto:</label> <br>
+            <select name="assunto" id="assunto">
+                <option value="Trabalho">Oportunidade de trabalho</option>
+                <option value="Feedback">Feedback</option>
+                <option value="Outros">Outros assuntos</option>
+            </select> <br><br>
+            <label for="msg">Mensagem:</label><br>
+            <textarea id="msg" name="msg" rows="4" cols="50"></textarea><br><br>
+            <button type="submit">Enviar</button>
+            <button type="reset">Limpar</button>
+        </fieldset>
+    </form>
+</body>
+<footer>
+      <p>&copy 2026 - Pedro Henrique Prandwiski Borges, desenvolvido no curso de Desenvolvimento de Sistemas no SENAI.</p>
+</footer>
+</html>
