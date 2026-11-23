@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:B93D1F&text=💼+PORTF%C3%93LIO+E+CURR%C3%8DCULO&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📋+Mini+Desafio+HTML&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:F06529&text=💼+PORTF%C3%93LIO+E+CURR%C3%8DCULO&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📋+Mini+Desafio+HTML&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📋+Sobre+o+Desafio;💼+Portf%C3%B3lio+%26+Curr%C3%ADculo+Pessoal" />
@@ -8,11 +8,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📋+Descri%C3%A7%C3%A3o+da+Atividade" />
 </div>
 <div align="center">
-
-    Este projeto consiste na criação de uma página de **Portfólio / Currículo Web**, desenvolvida com **HTML5 puro e semântico**.
-
-    A atividade tem como objetivo organizar informações pessoais, habilidades, projetos e dados de contato em uma página estruturada, funcional e seguindo a organização apresentada no modelo proposto.
-
+    <p>Este projeto consiste na criação de uma página de <strong>Portfólio / Currículo Web</strong>, desenvolvida com <strong>HTML5 puro e semântico</strong>.</p>
+    <p>A atividade tem como objetivo organizar informações pessoais, habilidades, projetos e dados de contato em uma página estruturada, funcional e seguindo a organização apresentada no modelo proposto.</p>
 </div>
 
 ---
@@ -21,9 +18,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=🎯+Objetivo+da+Atividade" />
 </div>
 <div align="center">
-
-    Criar uma página HTML **limpa, semântica e funcional**, reproduzindo a estrutura de um currículo/portfólio pessoal e demonstrando o domínio dos principais elementos de **HTML5**.
-
+    <p>Criar uma página HTML <strong>limpa, semântica e funcional</strong>, reproduzindo a estrutura de um currículo/portfólio pessoal e demonstrando o domínio dos principais elementos de <strong>HTML5</strong>.</p>
 </div>
 
 ---
@@ -32,14 +27,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📝+Elementos+Implementados" />
 </div>
 <div align="center">
-
-    🧭 **Cabeçalho e navegação:** título principal com nome/cargo e menu com links internos.<br>
-    👤 **Sobre Mim:** foto de perfil com dimensões de **150x150px**, apresentação e lista de habilidades.<br>
-    💻 **Meus Projetos:** tabela com Projeto, Tecnologias, Status e Link.<br>
-    📩 **Entre em Contato:** formulário organizado dentro de um fieldset com o título **Dados do Contato**.<br>
-    📝 **Campos do formulário:** Nome, E-mail, Assunto, Mensagem e botão de envio.<br>
-    📌 **Rodapé:** direitos autorais com &copy;, e-mail e telefone.
-
+    <p>🧭 <strong>Cabeçalho e navegação:</strong> título principal com nome/cargo e menu com links internos.</p>
+    <p>👤 <strong>Sobre Mim:</strong> foto de perfil com dimensões de <strong>150x150px</strong>, apresentação e lista de habilidades.</p>
+    <p>💻 <strong>Meus Projetos:</strong> tabela com Projeto, Tecnologias, Status e Link.</p>
+    <p>📩 <strong>Entre em Contato:</strong> formulário organizado dentro de um fieldset com o título <strong>Dados do Contato</strong>.</p>
+    <p>📝 <strong>Campos do formulário:</strong> Nome, E-mail, Assunto, Mensagem e botão de envio.</p>
+    <p>📌 <strong>Rodapé:</strong> direitos autorais com &copy;, e-mail e telefone.</p>
 </div>
 
 ---
@@ -49,17 +42,17 @@
 </div>
 <div align="center">
 
-    | Requisito | Implementação |
-    |---|---|
-    | 💻 Linguagem | HTML5 |
-    | 🧩 Estrutura | HTML semântico |
-    | 🖼️ Imagem | 150x150px |
-    | 🔗 Navegação | Âncoras internas |
-    | 📊 Projetos | Tabela com 4 colunas |
-    | 📩 Contato | Formulário com fieldset e legend |
-    | 🦶 Rodapé | &copy;, e nome do criador |
+| Requisito | Implementação |
+|---|---|
+| 💻 Linguagem | HTML5 |
+| 🧩 Estrutura | HTML semântico |
+| 🖼️ Imagem | 150x150px |
+| 🔗 Navegação | Âncoras internas |
+| 📊 Projetos | Tabela com 4 colunas |
+| 📩 Contato | Formulário com fieldset e legend |
+| 🦶 Rodapé | &copy;, e nome do criador |
 
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:B93D1F,100:E34F26&section=footer&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F06529,100:E34F26&section=footer&animation=fadeIn" width="100%" />
 </div>
