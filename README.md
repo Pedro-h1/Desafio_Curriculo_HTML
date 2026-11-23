@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=E34F26&text=💼+PORTF%C3%93LIO+E+CURR%C3%8DCULO&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📋+Mini+Desafio+HTML&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A25CED,100:5649ED&text=💼+PORTF%C3%93LIO+E+CURR%C3%8DCULO&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📋+Mini+Desafio+HTML&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -78,5 +78,5 @@ Criar uma página HTML **limpa, semântica e funcional**, reproduzindo a estrutu
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=E34F26&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:A25CED,100:5649ED&section=footer&animation=fadeIn" width="100%" />
 </div>
